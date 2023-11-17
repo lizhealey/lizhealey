@@ -1,13 +1,13 @@
 ---
 # Display name
-title: E Healey
+title: E H
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
 first_name: E
-last_name: Healey
+last_name: H
 
 # Status emoji
 status:
