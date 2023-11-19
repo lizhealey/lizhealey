@@ -100,5 +100,5 @@ social:
 highlight_name: true
 ---
 
-Under construction
+This website is currently under construction
 {style="text-align: justify;"}
