@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Elizabeth Healey # Website name
+title: Elizabeth H # Website name
 baseURL:  'https://elizabethhealey.com/' # Website URL
 
 ############################
