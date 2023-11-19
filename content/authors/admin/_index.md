@@ -1,13 +1,13 @@
 ---
 # Display name
-title: E H
+title: Elizabeth Healey
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: E
-last_name: H
+first_name: Elizabeth
+last_name: Healey
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 role: PhD Candidate in Machine Learning
 
 # Organizations/Affiliations to show in About widget
-organizations:
+organizations: 
   - name: 
     url:
 
@@ -29,9 +29,10 @@ bio: Bio
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Machine learning for healthcare
   - Clinical decision support
   - Causal Inference
+  - Diabetes technology
 
 # Education to show in About widget
 education:
