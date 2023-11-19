@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Elizabeth Healey
+title: Elizabeth H
 
 # Name pronunciation (optional)
 name_pronunciation: 
