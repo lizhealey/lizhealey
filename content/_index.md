@@ -33,6 +33,7 @@ sections:
         <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
+        color : #58D3F7 
         gradient_end: #58D3F7 
         gradient_start: #58D3F7
         text_color_light: true
