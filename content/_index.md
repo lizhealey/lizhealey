@@ -43,4 +43,10 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
+  - block: tag_cloud
+      content:
+        title: Popular Topics
+      design:
+        columns: '2'
+
 ---
