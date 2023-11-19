@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Machine Learning
+role: Ph.D. Candidate in Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations: 
