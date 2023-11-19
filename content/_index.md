@@ -45,7 +45,7 @@ sections:
   - block: teaching
     content:
       title: Teaching
-      text: ''
+      text: ' hello'
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
