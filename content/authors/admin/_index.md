@@ -37,11 +37,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Medical Engineering and Medical Physics
-      institution: Massachusetts Institute of Technology
+    - course: Massachusetts Institute of Technology
+      institution: PhD in Medical Engineering and Medical Physics 
       year: 
-    - course: BSc in Electrical Engineering
-      institution: Harvard University
+    - course: Harvard University 
+      institution: BSc in Electrical Engineering
       year: 2019
 
 # Skills
