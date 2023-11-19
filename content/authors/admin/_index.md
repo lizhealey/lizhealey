@@ -6,7 +6,7 @@ title: Elizabeth Healey
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Elizabeth M
+first_name: Elizabeth 
 last_name: Healey
 
 # Status emoji
@@ -41,8 +41,8 @@ education:
       institution: PhD in Medical Engineering and Medical Physics 
       year: 
     - course: Harvard University 
-      institution: BSc in Electrical Engineering
-      year: 2019
+      institution: BSc in Electrical Engineering, 2019
+      year:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
