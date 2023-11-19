@@ -6,7 +6,7 @@ title: Elizabeth Healey
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Elizabeth
+first_name: Elizabeth M
 last_name: Healey
 
 # Status emoji
