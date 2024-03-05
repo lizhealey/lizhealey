@@ -31,7 +31,6 @@ bio: Bio
 interests:
   - Machine learning for healthcare
   - Clinical decision support
-  - Causal Inference
   - Diabetes technology
 
 # Education to show in About widget
@@ -83,18 +82,18 @@ social:
  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
  #   icon_pack: fas
  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
- # - icon: github
- #   icon_pack: fab
- #   link: https://github.com/gcushen
- # - icon: linkedin
- #   icon_pack: fab
- #   link: https://www.linkedin.com/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/lizhealey
+  - icon: linkedin
+    icon_pack: fab
+    link: www.linkedin.com/in/elizabeth-healey-408368115
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
- # - icon: cv
- #   icon_pack: ai
- #   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: https://drive.google.com/file/d/1dIgIH0DnnfsdVQ3jPqNGrl000hFrg-ct/view?usp=sharing
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
