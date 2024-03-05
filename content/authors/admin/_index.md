@@ -101,3 +101,4 @@ highlight_name: true
 ---
 
 {style="text-align: justify;"}
+Hello! I am a PhD candidate in the Harvard–MIT Health Sciences and Technology program. My research focus is in harnessing observational health data to enhance clinical decision-making and understand disease heterogeneity. My work concentrates on using continuous glucose monitoring to enable precision medicine for patients with type 2 diabetes. 
