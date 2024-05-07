@@ -91,9 +91,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://linkedin.com/in/elizabeth-healey-408368115
-  - icon: linkedin
+  - icon: twitter
     icon_pack: fab
-    link: https://linkedin.com/in/elizabeth-healey-408368115
+    link: https://twitter.com/Liz_Healey_
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
