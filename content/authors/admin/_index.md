@@ -75,7 +75,7 @@ social:
  #  - icon: envelope
   #   icon_pack: fas
   #   link: '/#contact'
-  - icon: twitter
+    - icon: twitter
      icon_pack: fab
      link: https://twitter.com/GeorgeCushen
  #    label: Follow me on Twitter
