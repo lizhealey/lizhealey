@@ -63,7 +63,7 @@ sections:
           date_start: 'Spring 2024'
           date_end: ''
           
-        - title: Precision Medicine II - Integrating Clinical and Genomic Data,
+        - title: Precision Medicine II Integrating Clinical and Genomic Data
           company: Teaching Fellow
           company_url: ''
           company_logo: org-x
@@ -71,7 +71,7 @@ sections:
           date_start: 'Fall 2023'
           date_end: ''
 
-     - title: Precision Medicine I - Genomic Medicine
+     - title: Precision Medicine I  Genomic Medicine
           company: Teaching Fellow
           company_url: ''
           company_logo: org-x
