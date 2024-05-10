@@ -42,7 +42,6 @@ sections:
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
- 
   - block: experience
     content:
       title: Teaching Experience
@@ -71,13 +70,13 @@ sections:
           date_start: 'Fall 2023'
           date_end: ''
 
-     - title: Precision Medicine I  Genomic Medicine
-          company: Teaching Fellow
-          company_url: ''
-          company_logo: org-x
-          location: HMS
-          date_start: 'Fall 2023'
-          date_end: ''
+       - title: Precision Medicine I  Genomic Medicine
+            company: Teaching Fellow
+            company_url: ''
+            company_logo: org-x
+            location: HMS
+            date_start: 'Fall 2023'
+            date_end: ''
     design:
       columns: '2'
 ---
