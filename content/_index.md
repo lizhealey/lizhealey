@@ -97,9 +97,9 @@ sections:
 
   - block: markdown
     content:
-      title: My title
-      subtitle: My subtitle
-      text: Add !
+      title: ''
+      subtitle: ''
+      text: ''
     design:
       columns: '2'
 ---
