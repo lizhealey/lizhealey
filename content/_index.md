@@ -58,7 +58,7 @@ sections:
       items:
         - date_end: ''
           date_start: '2024-03-03'
-          description: 'Harvard Medical School'
+          description: ''
           organization: Data Science Mentor  |   Harvard Medical School
           title: 'AISC 610: Computationally-Enabled Medicine'
           url: https://dbmi.hms.harvard.edu/education/courses/aisc-610
