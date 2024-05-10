@@ -57,17 +57,18 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
-          date_start: '2007-07-03'
+          date_start: '2024-07-03'
           description: 'Harvard Medical School'
           organization: Data Science Mentor
           title: 'AISC 610: Computationally-Enabled Medicine'
           url: https://dbmi.hms.harvard.edu/education/courses/aisc-610
-        - date_end: 'Harvard DBMI'
-          date_start: '2007-07-03'
+        - date_end: ''
+          description: 'Harvard DBMI'
+          date_start: '2023-07-10'
           organization: Teaching Fellow
           title: 'BMI 707: Precision Medicine II - Integrating Clinical and Genomic Data'
           url: https://dbmi.hms.harvard.edu/education/courses/bmi-705
-        - date_start: '2007-07-03'
+        - date_start: '2023-07-08'
           description: 'Harvard DBMI'
           organization: Teaching Fellow
           title: 'BMI 703: Precision Medicine I - Genomic Medicine'
