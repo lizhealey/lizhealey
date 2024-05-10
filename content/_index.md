@@ -42,30 +42,5 @@ sections:
       title: 
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: experience
-    content:
-      title: Teaching Experience
-     
-      date_format: Jan 2006
-      
-      items:
-        - title: Computationally Enabled Medicine
-          company: Data Science Mentor
-          company_url: ''
-          company_logo: org-gc
-          location: HMS
-          date_start: ''
-          date_end: ''
-          
-        - title: Precision Medicine II Integrating Clinical and Genomic Data
-          company: Teaching Fellow
-          company_url: ''
-          company_logo: org-x
-          location: HMS
-          date_start: 'Fall 2023'
-          date_end: ''
-    
-       
-    design:
-      columns: '2'
+  
 ---
