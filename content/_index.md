@@ -56,17 +56,25 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Computationally-Enabled Medicine
-          company: Teaching Assistant
+          company: Data Science Mentor
           company_url: https://dbmi.hms.harvard.edu/education/courses/aisc-610
-          # company_logo: org-gc
+          company_logo: org-gc
           location: HMS
           date_start: 'Spring 2024'
           date_end: ''
           
         - title: Precision Medicine II - Integrating Clinical and Genomic Data,
-          company: Teaching Assistant
+          company: Teaching Fellow
           company_url: ''
-          # company_logo: org-x
+          company_logo: org-x
+          location: HMS
+          date_start: 'Fall 2023'
+          date_end: ''
+
+     - title: Precision Medicine I - Genomic Medicine
+          company: Teaching Fellow
+          company_url: ''
+          company_logo: org-x
           location: HMS
           date_start: 'Fall 2023'
           date_end: ''
