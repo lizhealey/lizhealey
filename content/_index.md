@@ -73,20 +73,20 @@ sections:
           title: 'Precision Medicine I - Genomic Medicine'
           url: ''
         - date_start: '2020-07-01'
-              description: ''
-              organization: Teaching Fellow
-              title: 'Deep Learning for Biomedical Data'
-              url: ''
+          description: ''
+          organization: Teaching Fellow
+          title: 'Deep Learning for Biomedical Data'
+          url: ''
         - date_start: '2020-07-01'
-                  description: ''
-                  organization: Course Assistant
-                  title: 'Circuits, Devices, and Transduction'
-                  url: ''
+          description: ''
+          organization: Course Assistant
+          title: 'Circuits, Devices, and Transduction'
+          url: ''
         - date_start: '2020-07-01'
-                    description: ''
-                    organization: Teaching Fellow
-                    title: 'The Joy of Electronics'
-                    url: ''
+          description: ''
+          organization: Teaching Fellow
+          title: 'The Joy of Electronics'
+          url: ''
     design:
       columns: '2'
 ---
