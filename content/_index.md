@@ -59,32 +59,32 @@ sections:
         - date_end: ''
           date_start: '2024-03-03'
           description: 'Harvard Medical School'
-          organization: Data Science Mentor
+          organization: Data Science Mentor  |   Harvard Medical School
           title: 'AISC 610: Computationally-Enabled Medicine'
           url: https://dbmi.hms.harvard.edu/education/courses/aisc-610
         - date_end: ''
-          description: 'Harvard DBMI'
+          description: ' '
           date_start: '2023-10-10'
-          organization: Teaching Fellow
+          organization: Teaching Fellow  |   Harvard DBMI
           title: 'BMI 707: Precision Medicine II - Integrating Clinical and Genomic Data'
           url: https://dbmi.hms.harvard.edu/education/courses/bmi-705
         - date_start: '2023-08-08'
           description: 'Harvard DBMI'
-          organization: Teaching Fellow
+          organization: Teaching Fellow  |   Harvard DBMI
           title: 'BMI 703: Precision Medicine I - Genomic Medicine'
           url: https://dbmi.hms.harvard.edu/education/courses/bmi-703
         - date_start: '2021-03-03'
-          description: 'Harvard DBMI'
-          organization: Teaching Fellow
+          description: ''
+          organization: Teaching Fellow  |   Harvard DBMI
           title: 'BMI 707: Deep Learning for Biomedical Data'
           url: https://dbmi.hms.harvard.edu/education/courses/bmi-707
         - date_start: '2018-08-08'
-          description: 'Harvard SEAS'
-          organization: Course Assistant
+          description: ''
+          organization: Course Assistant  |   Harvard SEAS
           title: 'ES 152: Circuits, Devices, and Transduction'
           url: https://seas.harvard.edu/electrical-engineering/courses
         - date_start: '2017-08-08'
-          description: 'Harvard SEAS'
+          description: ''
           organization: Teaching Fellow  |   Harvard SEAS
           title: 'ES52: The Joy of Electronics'
           url: ''
