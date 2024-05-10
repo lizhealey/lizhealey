@@ -63,20 +63,20 @@ sections:
           title: 'Computationally-Enabled Medicine'
           url: https://dbmi.hms.harvard.edu/education/courses/aisc-610
         - date_end: ''
-          date_start: 'Fall 2022, Fall 2023'
+          date_start: 'Fall 2022'
           organization: Teaching Fellow
           title: 'Precision Medicine II - Integrating Clinical and Genomic Data'
-          url: https://dbmi.hms.harvard.edu/education/courses/bmi-705
+          url: 'https://dbmi.hms.harvard.edu/education/courses/bmi-705'
         - date_start: '2020-07-01'
           description: ''
           organization: Teaching Fellow
           title: 'Precision Medicine I - Genomic Medicine'
-          url: https://dbmi.hms.harvard.edu/education/courses/bmi-703
+          url: 'https://dbmi.hms.harvard.edu/education/courses/bmi-703'
         - date_start: '2020-07-01'
           description: ''
           organization: Teaching Fellow
           title: 'Deep Learning for Biomedical Data'
-          url: https://dbmi.hms.harvard.edu/education/courses/bmi-707
+          url: 'https://dbmi.hms.harvard.edu/education/courses/bmi-707'
         - date_start: '2020-07-01'
           description: ''
           organization: Course Assistant
