@@ -43,9 +43,9 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
  
- #  - block: experience
-   #  content:
-    #   title: Teaching Experience
+   - block: experience
+     content:
+        title: Teaching Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
     #   date_format: Jan 2006
@@ -54,8 +54,8 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-    #   items:
-    #     - title: Teaching Fellow
+      items:
+         - title: Teaching Fellow
     #       company: Harvard Medical School 
      #      company_url: ''
      #      company_logo: org-gc
