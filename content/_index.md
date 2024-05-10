@@ -70,13 +70,7 @@ sections:
           date_start: ''
           date_end: ''
 
-       - title: Precision Medicine I  Genomic Medicine
-            company: Teaching Fellow
-            company_url: ''
-            company_logo: org-x
-            location: HMS
-            date_start: ''
-            date_end: ''
+       
     design:
       columns: '2'
 ---
