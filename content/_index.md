@@ -59,25 +59,18 @@ sections:
         - date_end: ''
           date_start: '2021-01-25'
           description: ''
-          organization: Coursera
+          organization: Data Science Mentor
           title: Neural Networks and Deep Learning
           url: https://dbmi.hms.harvard.edu/education/courses/aisc-610
-        - certificate_url: https://www.edx.org
-          date_end: ''
+        - date_end: ''
           date_start: '2021-01-01'
           description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
+          organization: Teaching Fellow
           title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - date_start: '2020-07-01'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
+          organization: Teaching Fellow
           title: 'Object-Oriented Programming in R'
           url: ''
     design:
