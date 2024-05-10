@@ -92,8 +92,7 @@ sections:
           organization: Teaching Fellow  |   Harvard SEAS
           title: 'ES52: The Joy of Electronics'
           url: ''
-    design:
-      columns: '2'
+    
 
   - block: markdown
     content:
