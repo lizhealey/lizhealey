@@ -57,32 +57,32 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
-          date_start: '2020-07-01'
+          date_start: '2024-07-03'
           description: ''
           organization: Data Science Mentor
           title: 'Computationally-Enabled Medicine'
           url: https://dbmi.hms.harvard.edu/education/courses/aisc-610
         - date_end: ''
-          date_start: '2020-07-01'
+          date_start: '2023-07-010'
           organization: Teaching Fellow
           title: 'Precision Medicine II - Integrating Clinical and Genomic Data'
-          url: 'https://dbmi.hms.harvard.edu/education/courses/bmi-705'
-        - date_start: '2020-07-01'
+          url: https://dbmi.hms.harvard.edu/education/courses/bmi-705
+        - date_start: '2023-07-08'
           description: ''
           organization: Teaching Fellow
           title: 'Precision Medicine I - Genomic Medicine'
-          url: 'https://dbmi.hms.harvard.edu/education/courses/bmi-703'
-        - date_start: '2020-07-01'
+          url: https://dbmi.hms.harvard.edu/education/courses/bmi-703
+        - date_start: '2021-07-03'
           description: ''
           organization: Teaching Fellow
           title: 'Deep Learning for Biomedical Data'
-          url: 'https://dbmi.hms.harvard.edu/education/courses/bmi-707'
-        - date_start: '2020-07-01'
+          url: https://dbmi.hms.harvard.edu/education/courses/bmi-707
+        - date_start: '2018-07-09'
           description: ''
           organization: Course Assistant
           title: 'Circuits, Devices, and Transduction'
           url: ''
-        - date_start: '2020-07-01'
+        - date_start: '2017-07-08'
           description: ''
           organization: Teaching Fellow
           title: 'The Joy of Electronics'
