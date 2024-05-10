@@ -59,11 +59,9 @@ sections:
         - date_end: ''
           date_start: '2021-01-25'
           description: ''
-          #icon: coursera
           organization: Coursera
-          organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
-          url: ''
+          url: https://dbmi.hms.harvard.edu/education/courses/aisc-610
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
