@@ -10,6 +10,9 @@ main:
   - name: CV
     url: https://drive.google.com/file/d/1dIgIH0DnnfsdVQ3jPqNGrl000hFrg-ct/view
     weight: 20
+  - name: Teaching
+    url: '#posts'
+    weight: 20
  # - name: Projects
  #   url: '#projects'
 #    weight: 30
