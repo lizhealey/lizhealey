@@ -59,7 +59,7 @@ sections:
           company_url: https://dbmi.hms.harvard.edu/education/courses/aisc-610
           company_logo: org-gc
           location: HMS
-          date_start: ''
+          date_start: 'Spring 2024'
           date_end: ''
           
         - title: Precision Medicine II Integrating Clinical and Genomic Data
@@ -67,17 +67,10 @@ sections:
           company_url: ''
           company_logo: org-x
           location: HMS
-          date_start: ''
+          date_start: 'Fall 2023'
           date_end: ''
-      - title: Precision Medicine I  Genomic Medicine
-              company: Teaching Fellow
-              company_url: ''
-              company_logo: org-x
-              location: HMS
-              date_start: ''
-              date_end: ''
-
+    
        
     design:
-      columns: '3'
+      columns: '2'
 ---
