@@ -85,7 +85,7 @@ sections:
           url: https://seas.harvard.edu/electrical-engineering/courses
         - date_start: '2017-08-08'
           description: 'Harvard SEAS'
-          organization: Teaching Fellow
+          organization: Teaching Fellow  |   Harvard SEAS
           title: 'ES52: The Joy of Electronics'
           url: ''
     design:
