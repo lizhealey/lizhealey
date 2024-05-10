@@ -45,21 +45,16 @@ sections:
   - block: experience
     content:
       title: Teaching Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
+     
       date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      
       items:
         - title: Computationally Enabled Medicine
           company: Data Science Mentor
-          company_url: https://dbmi.hms.harvard.edu/education/courses/aisc-610
+          company_url: ''
           company_logo: org-gc
           location: HMS
-          date_start: 'Spring 2024'
+          date_start: ''
           date_end: ''
           
         - title: Precision Medicine II Integrating Clinical and Genomic Data
