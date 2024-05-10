@@ -49,7 +49,7 @@ sections:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       id: teaching
       title: 'Teaching'
-      subtitle: I have been on the teaching team of multiple graduate and undergraduate courses during my training across topics in electrical engineering, machine learning, and translational methods in bioinformatics. I was previously a [Teaching Development Fellow](https://tll.mit.edu/programming/grad-student-programming/tdf/) and earned a teaching certificate through the [Graduate Teaching Development tracks](https://tll.mit.edu/programming/grad-student-programming/teaching-certificate-pathways/grad-teaching-development-tracks/) at MIT. 
+      subtitle: I have been on the teaching team of multiple graduate and undergraduate courses during my training across topics in electrical engineering, machine learning, and translational methods in bioinformatics. I was previously a [Teaching Development Fellow](https://tll.mit.edu/programming/grad-student-programming/tdf/) and earned a teaching certificate by completing the [Graduate Teaching Development tracks](https://tll.mit.edu/programming/grad-student-programming/teaching-certificate-pathways/grad-teaching-development-tracks/) at MIT. 
 
     
       # Date format: https://docs.hugoblox.com/customization/#date-format
