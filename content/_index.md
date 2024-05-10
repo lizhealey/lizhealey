@@ -47,7 +47,7 @@ sections:
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       id: teaching
-      title: 'Teaching&shy;Experience'
+      title: 'Teaching'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -64,13 +64,13 @@ sections:
           title: 'AISC 610: Computationally-Enabled Medicine'
           url: https://dbmi.hms.harvard.edu/education/courses/aisc-610
         - date_end: ''
-          description: ' '
+          description: ''
           date_start: '2023-10-10'
           organization: Teaching Fellow  |   Harvard DBMI
           title: 'BMI 707: Precision Medicine II - Integrating Clinical and Genomic Data'
           url: https://dbmi.hms.harvard.edu/education/courses/bmi-705
         - date_start: '2023-08-08'
-          description: ' '
+          description: ''
           organization: Teaching Fellow  |   Harvard DBMI
           title: 'BMI 703: Precision Medicine I - Genomic Medicine'
           url: https://dbmi.hms.harvard.edu/education/courses/bmi-703
