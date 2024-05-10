@@ -69,7 +69,7 @@ sections:
           title: 'BMI 707: Precision Medicine II - Integrating Clinical and Genomic Data'
           url: https://dbmi.hms.harvard.edu/education/courses/bmi-705
         - date_start: '2023-08-08'
-          description: 'Harvard DBMI'
+          description: ' '
           organization: Teaching Fellow  |   Harvard DBMI
           title: 'BMI 703: Precision Medicine I - Genomic Medicine'
           url: https://dbmi.hms.harvard.edu/education/courses/bmi-703
