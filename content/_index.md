@@ -55,21 +55,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Teaching Assistant
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Computationally-Enabled Medicine
+          company: Teaching Assistant
+          company_url: https://dbmi.hms.harvard.edu/education/courses/aisc-610
+          # company_logo: org-gc
+          location: HMS
+          date_start: 'Spring 2024'
           date_end: ''
           
-        - title: Teaching Assistant
-          company: University X
+        - title: Precision Medicine II - Integrating Clinical and Genomic Data,
+          company: Teaching Assistant
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          # company_logo: org-x
+          location: HMS
+          date_start: 'Fall 2023'
+          date_end: ''
     design:
       columns: '2'
 ---
