@@ -49,7 +49,7 @@ sections:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       id: teaching
       title: 'Teaching'
-      subtitle:
+      subtitle: . 
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
       # Accomplishments.
