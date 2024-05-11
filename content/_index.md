@@ -50,6 +50,7 @@ sections:
 
     
   - block: markdown
+    id: research
     content:
       title: 'Research'
       subtitle: 'Selected publications are below'
