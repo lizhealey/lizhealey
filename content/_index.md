@@ -43,6 +43,15 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
 
+  - block: markdown
+    content:
+      title: 'Research'
+      subtitle: ''
+      text: 'Elizabeth Healey, Kristen Flint, Jessica Ruiz, Amelia Tan. 2024. Leveraging Large Language Models
+to Analyze Continuous Glucose Monitoring Data: A Case Study. medRxiv doi:
+10.1101/2024.04.06.24305022'
+   
+    
   - block: accomplishments
     id: accomplishments
     content:
@@ -94,11 +103,4 @@ sections:
           url: ''
     
 
-  - block: markdown
-    content:
-      title: ''
-      subtitle: ''
-      text: ''
-    design:
-      columns: '2'
 ---
