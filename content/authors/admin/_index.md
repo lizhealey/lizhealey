@@ -104,7 +104,9 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hello! I am a PhD candidate in the [Harvard–MIT Health Sciences and Technology](https://hst.mit.edu/) program advised by [Isaac Kohane](https://dbmi.hms.harvard.edu/people/isaac-kohane) and supported by the [National Science Foundation GRFP](https://www.nsfgrfp.org). My research focus is in harnessing physiological signals and observational health data to enhance clinical decision-making and understand disease heterogeneity. My ongoing work concentrates on using continuous glucose monitoring to enable precision medicine for patients with type 2 diabetes. Previously, I graduated *magna cum laude* from Harvard College with a degree in Electrical Engineering where I worked on biomedical control for the artificial pancreas. 
+Hello! I am a PhD candidate in the [Harvard–MIT Health Sciences and Technology](https://hst.mit.edu/) program advised by [Isaac Kohane](https://dbmi.hms.harvard.edu/people/isaac-kohane) and supported by the [National Science Foundation GRFP](https://www.nsfgrfp.org). My research focus is in harnessing physiological signals and observational health data to enhance clinical decision-making and understand disease heterogeneity. My ongoing work concentrates on using continuous glucose monitoring to enable precision medicine for patients with type 2 diabetes. 
+
+\ Previously, I graduated *magna cum laude* from Harvard College with a degree in Electrical Engineering where I worked on biomedical control for the artificial pancreas. 
 
 {style="text-align: justify;"}
 
