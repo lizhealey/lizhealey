@@ -12,10 +12,10 @@ main:
     weight: 20
   - name: Teaching
     url: '#accomplishments'
+    weight: 30
+  - name: Research
+    url: '#research'
     weight: 20
- # - name: Projects
- #   url: '#projects'
-#    weight: 30
  # - name: Talks
  #   url: '#talks'
  #   weight: 40
