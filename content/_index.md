@@ -49,9 +49,9 @@ sections:
       subtitle: ''
       text: '__Elizabeth Healey__, Kristen Flint, Jessica Ruiz, Amelia Tan. 2024. Leveraging Large Language Models
 to Analyze Continuous Glucose Monitoring Data: A Case Study. medRxiv doi:
-10.1101/2024.04.06.24305022
+10.1101/2024.04.06.24305022\
    Peniel Argaw*, __Elizabeth Healey*__, Isaac Kohane. Identifying Heterogeneous Treatment Effects in
-Multiple Outcomes using Joint Confidence Intervals. Machine Learning for Health Symposium. 2022.
+Multiple Outcomes using Joint Confidence Intervals. Machine Learning for Health Symposium. 2022.\
 A. Chakrabarty, __E. Healey__, D. Shi, S. Zavitsanou,, F.J. Doyle III, E. Dassau. Embedded Model
 Predictive Control for a Wearable Artificial Pancreas. IEEE Transactions on Control Systems
 Technology. 2019.'
