@@ -66,6 +66,17 @@ Multiple Outcomes using Joint Confidence Intervals. Machine Learning for Health 
 A. Chakrabarty, __E. Healey__, D. Shi, S. Zavitsanou,, F.J. Doyle III, E. Dassau. Embedded Model
 Predictive Control for a Wearable Artificial Pancreas. IEEE Transactions on Control Systems
 Technology. 2019.'
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2CP1CJJQJJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2CP1CJJQJJ');
+</script>
+
     
   - block: accomplishments
     id: accomplishments
