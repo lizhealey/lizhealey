@@ -109,4 +109,13 @@ Hello! I am a PhD candidate in the [Harvard–MIT Health Sciences and Technology
 Previously, I graduated *magna cum laude* from Harvard College with an S.B. degree in Electrical Engineering where I worked on biomedical control for the artificial pancreas. 
 
 {style="text-align: justify;"}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2CP1CJJQJJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2CP1CJJQJJ');
+</script>
 
