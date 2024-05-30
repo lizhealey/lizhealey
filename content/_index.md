@@ -54,12 +54,12 @@ sections:
     content:
       title: 'Research'
       subtitle: 'Selected publications are below'
-      text: __Elizabeth Healey__, Isaac Kohane. Model-Based Insulin Sensitivity and Beta-Cell Function Estimation
+      text: '__Elizabeth Healey__, Isaac Kohane. Model-Based Insulin Sensitivity and Beta-Cell Function Estimation
 from Daily Continuous Glucose Monitoring. Accepted at the 46th Annual International Conference of the
-IEEE Engineering in Medicine and Biology Society. 2024.
+IEEE Engineering in Medicine and Biology Society. 2024. (Oral Presentation).
 <br>
 
-    '__Elizabeth Healey__, Kristen Flint, Jessica Ruiz, Amelia Tan. Leveraging Large Language Models
+    __Elizabeth Healey__, Kristen Flint, Jessica Ruiz, Amelia Tan. Leveraging Large Language Models
 to Analyze Continuous Glucose Monitoring Data: A Case Study. 2024. medRxiv doi:
 10.1101/2024.04.06.24305022<br>
 <br>
