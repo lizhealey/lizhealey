@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Machine Learning for Healthcare
+role: Ph.D. Candidate working on Machine Learning for Healthcare
 
 # Organizations/Affiliations to show in About widget
 organizations: 
@@ -30,9 +30,10 @@ bio: Bio
 
 # Interests to show in About widget
 interests:
-  - Machine learning for healthcare
+  - Machine learning for precision medicine
   - Clinical decision support
-  - Diabetes technology
+  - Wearable technology 
+  - Diabetes Management 
 
 # Education to show in About widget
 education:
