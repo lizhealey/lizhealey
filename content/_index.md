@@ -56,7 +56,7 @@ sections:
       subtitle: 'Selected publications are below'
       text: '__Elizabeth Healey__, Isaac Kohane. Model-Based Insulin Sensitivity and Beta-Cell Function Estimation
 from Daily Continuous Glucose Monitoring. Accepted at the 46th Annual International Conference of the
-IEEE Engineering in Medicine and Biology Society. 2024. (Oral Presentation).
+IEEE Engineering in Medicine and Biology Society. 2024. (Oral Presentation).<br>
 <br>
 
     __Elizabeth Healey__, Kristen Flint, Jessica Ruiz, Amelia Tan. Leveraging Large Language Models
@@ -64,7 +64,7 @@ to Analyze Continuous Glucose Monitoring Data: A Case Study. 2024. medRxiv doi:
 10.1101/2024.04.06.24305022<br>
 <br>
 Kun-Hsing Yu, __Elizabeth Healey__, Tze-Yun Leong, Isaac Kohane, Arjun Manrai. Medical Artificial
-Intelligence and Human Values. New England Journal of Medicine. 2024.
+Intelligence and Human Values. New England Journal of Medicine. 2024.<br>
 <br>
    Peniel Argaw*, __Elizabeth Healey*__, Isaac Kohane. Identifying Heterogeneous Treatment Effects in
 Multiple Outcomes using Joint Confidence Intervals. Machine Learning for Health Symposium. 2022.<br>
