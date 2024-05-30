@@ -54,16 +54,23 @@ sections:
     content:
       title: 'Research'
       subtitle: 'Selected publications are below'
-      text: '__Elizabeth Healey__, Kristen Flint, Jessica Ruiz, Amelia Tan. Leveraging Large Language Models
+      text: __Elizabeth Healey__, Isaac Kohane. Model-Based Insulin Sensitivity and Beta-Cell Function Estimation
+from Daily Continuous Glucose Monitoring. Accepted at the 46th Annual International Conference of the
+IEEE Engineering in Medicine and Biology Society. 2024.
+<br>
+
+    '__Elizabeth Healey__, Kristen Flint, Jessica Ruiz, Amelia Tan. Leveraging Large Language Models
 to Analyze Continuous Glucose Monitoring Data: A Case Study. 2024. medRxiv doi:
 10.1101/2024.04.06.24305022<br>
 <br>
-
+Kun-Hsing Yu, __Elizabeth Healey__, Tze-Yun Leong, Isaac Kohane, Arjun Manrai. Medical Artificial
+Intelligence and Human Values. New England Journal of Medicine. 2024.
+<br>
    Peniel Argaw*, __Elizabeth Healey*__, Isaac Kohane. Identifying Heterogeneous Treatment Effects in
 Multiple Outcomes using Joint Confidence Intervals. Machine Learning for Health Symposium. 2022.<br>
 <br>
 
-A. Chakrabarty, __E. Healey__, D. Shi, S. Zavitsanou,, F.J. Doyle III, E. Dassau. Embedded Model
+Ankush Chakrabarty, __Elizabeth Healey__, Dawei Shi, Stamatina Zavitsanou, Francis J Doyle and Eyal Dassau. Embedded Model
 Predictive Control for a Wearable Artificial Pancreas. IEEE Transactions on Control Systems
 Technology. 2019.'
 
