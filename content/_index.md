@@ -96,7 +96,7 @@ Technology. 2019.'
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - date_end: ''
-          date_start: ''
+          date_start: '2023-10-10'
           description: ''
           organization: Data Science Mentor  |   Harvard Medical School
           title: 'AISC 610: Computationally-Enabled Medicine'
