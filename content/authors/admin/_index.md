@@ -105,9 +105,11 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hello! I am a PhD candidate in the [Harvard–MIT Health Sciences and Technology](https://hst.mit.edu/) program advised by [Isaac Kohane](https://dbmi.hms.harvard.edu/people/isaac-kohane) and supported by the [National Science Foundation GRFP](https://www.nsfgrfp.org). My research focus is in harnessing physiological signals and observational health data to enhance clinical decision-making and understand disease heterogeneity. My ongoing work concentrates on using continuous glucose monitoring to enable precision medicine for patients with type 2 diabetes. 
+Hello! I am a final year PhD candidate in the [Harvard–MIT Health Sciences and Technology](https://hst.mit.edu/) program advised by [Isaac Kohane](https://dbmi.hms.harvard.edu/people/isaac-kohane) and supported by the [National Science Foundation GRFP](https://www.nsfgrfp.org). My research focus is in harnessing physiological signals and observational health data to enhance clinical decision-making and understand disease heterogeneity. My ongoing work concentrates on using continuous glucose monitoring to enable precision medicine for patients with type 2 diabetes. 
 
 Previously, I graduated *magna cum laude* from Harvard College with an S.B. degree in Electrical Engineering where I worked on biomedical control for the artificial pancreas. 
+
+I can be contacted at ehealey@mit.edu
 
 {style="text-align: justify;"}
 <!-- Google tag (gtag.js) -->
