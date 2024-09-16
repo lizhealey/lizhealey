@@ -32,8 +32,8 @@ bio: Bio
 interests:
   - Machine learning for precision medicine
   - Clinical decision support
-  - Wearable technology 
-  - Diabetes Management 
+  - Wearable signal processing 
+  - Diabetes technology 
 
 # Education to show in About widget
 education:
