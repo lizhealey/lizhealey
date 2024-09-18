@@ -54,10 +54,10 @@ sections:
     content:
       title: 'Research'
       subtitle: 'Selected publications are below'
-      text: Noah C Jones, Ming-Chieh Shih, __Elizabeth Healey__, Chen Wen Zhai, Sonali D Advani, Aaron Smith-McLallen, David   Sontag, Sanjat Kanjilal. [Reassessing the management of uncomplicated urinary tract infection: A retrospective analysis using machine learning causal inference](https://www.medrxiv.org/content/10.1101/2024.08.18.24312104v1). 2024. 
+      text: 'Noah C Jones, Ming-Chieh Shih, __Elizabeth Healey__, Chen Wen Zhai, Sonali D Advani, Aaron Smith-McLallen, David   Sontag, Sanjat Kanjilal. [Reassessing the management of uncomplicated urinary tract infection: A retrospective analysis using machine learning causal inference](https://www.medrxiv.org/content/10.1101/2024.08.18.24312104v1). 2024. 
   <br>
   <br>
-       '__Elizabeth Healey__, Isaac Kohane. Model-Based Insulin Sensitivity and Beta-Cell Function Estimation
+       __Elizabeth Healey__, Isaac Kohane. Model-Based Insulin Sensitivity and Beta-Cell Function Estimation
   from Daily Continuous Glucose Monitoring. Oral Presentation at the 46th Annual International Conference of the
   IEEE Engineering in Medicine and Biology Society. 2024. (in press).
   <br>
