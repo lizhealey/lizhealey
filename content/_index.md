@@ -55,24 +55,25 @@ sections:
       title: 'Research'
       subtitle: 'Selected publications are below'
       <br>
-      text: Noah C Jones, Ming-Chieh Shih, __Elizabeth Healey__, Chen Wen Zhai, Sonali D Advani, Aaron Smith-McLallen, David Sontag, Sanjat Kanjilal. [Reassessing the management of uncomplicated urinary tract infection: A retrospective analysis using machine learning causal inference](https://www.medrxiv.org/content/10.1101/2024.08.18.24312104v1). 2024. 
-<br>
-<br>
-      text: '__Elizabeth Healey__, Isaac Kohane. Model-Based Insulin Sensitivity and Beta-Cell Function Estimation
-from Daily Continuous Glucose Monitoring. Oral Presentation at the 46th Annual International Conference of the
-IEEE Engineering in Medicine and Biology Society. 2024. (in press).<br>
-<br>
-    __Elizabeth Healey__, Amelia Tan, Kristen Flint, Jessica Ruiz, Isaac Kohane. [Leveraging Large Language Models
-to Analyze Continuous Glucose Monitoring Data: A Case Study](https://www.medrxiv.org/content/10.1101/2024.04.06.24305022v1.article-metrics). 2024. 
-<br>
-Kun-Hsing Yu, __Elizabeth Healey__, Tze-Yun Leong, Isaac Kohane, Arjun Manrai. [Medical Artificial
-Intelligence and Human Values. New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMra2214183). 2024.<br>
-<br>
-   Peniel Argaw*, __Elizabeth Healey*__, Isaac Kohane. [Identifying Heterogeneous Treatment Effects in
-Multiple Outcomes using Joint Confidence Intervals](https://proceedings.mlr.press/v193/argaw22a.html) 2022.<br>
-<br>
-Ankush Chakrabarty, __Elizabeth Healey__, Dawei Shi, Stamatina Zavitsanou, Francis J Doyle and Eyal Dassau. [Embedded Model
-Predictive Control for a Wearable Artificial Pancreas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7983018/). 2019.'
+      text: Noah C Jones, Ming-Chieh Shih, __Elizabeth Healey__, Chen Wen Zhai, Sonali D Advani, Aaron Smith-McLallen, David   Sontag, Sanjat Kanjilal. [Reassessing the management of uncomplicated urinary tract infection: A retrospective analysis using machine learning causal inference](https://www.medrxiv.org/content/10.1101/2024.08.18.24312104v1). 2024. 
+  <br>
+  <br>
+        text: '__Elizabeth Healey__, Isaac Kohane. Model-Based Insulin Sensitivity and Beta-Cell Function Estimation
+  from Daily Continuous Glucose Monitoring. Oral Presentation at the 46th Annual International Conference of the
+  IEEE Engineering in Medicine and Biology Society. 2024. (in press).
+  <br>
+  <br>
+      __Elizabeth Healey__, Amelia Tan, Kristen Flint, Jessica Ruiz, Isaac Kohane. [Leveraging Large Language Models
+  to Analyze Continuous Glucose Monitoring Data: A Case Study](https://www.medrxiv.org/content/10.1101/2024.04.06.24305022v1.article-metrics). 2024. 
+  <br>
+  Kun-Hsing Yu, __Elizabeth Healey__, Tze-Yun Leong, Isaac Kohane, Arjun Manrai. [Medical Artificial
+  Intelligence and Human Values. New England Journal of Medicine](https://www.nejm.org/doi/full/10.1056/NEJMra2214183). 2024.<br>
+  <br>
+     Peniel Argaw*, __Elizabeth Healey*__, Isaac Kohane. [Identifying Heterogeneous Treatment Effects in
+  Multiple Outcomes using Joint Confidence Intervals](https://proceedings.mlr.press/v193/argaw22a.html) 2022.<br>
+  <br>
+  Ankush Chakrabarty, __Elizabeth Healey__, Dawei Shi, Stamatina Zavitsanou, Francis J Doyle and Eyal Dassau. [Embedded Model
+  Predictive Control for a Wearable Artificial Pancreas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7983018/). 2019.'
 
   
 
