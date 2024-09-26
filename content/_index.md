@@ -60,6 +60,7 @@ sections:
       __Elizabeth Healey__, Amelia Tan, Kristen Flint, Jessica Ruiz, Isaac Kohane. [Leveraging Large Language Models
   to Analyze Continuous Glucose Monitoring Data: A Case Study](https://www.medrxiv.org/content/10.1101/2024.04.06.24305022v1.article-metrics). 2024. 
   <br>
+   <br>
     Noah C Jones, Ming-Chieh Shih, __Elizabeth Healey__, Chen Wen Zhai, Sonali D Advani, Aaron Smith-McLallen, David   Sontag, Sanjat Kanjilal. [Reassessing the management of uncomplicated urinary tract infection: A retrospective analysis using machine learning causal inference](https://www.medrxiv.org/content/10.1101/2024.08.18.24312104v1). 2024. 
   <br>
   <br>
