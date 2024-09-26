@@ -62,11 +62,14 @@ sections:
   <br>
     Noah C Jones, Ming-Chieh Shih, __Elizabeth Healey__, Chen Wen Zhai, Sonali D Advani, Aaron Smith-McLallen, David   Sontag, Sanjat Kanjilal. [Reassessing the management of uncomplicated urinary tract infection: A retrospective analysis using machine learning causal inference](https://www.medrxiv.org/content/10.1101/2024.08.18.24312104v1). 2024. 
   <br>
+  <br>
        __Elizabeth Healey__, Isaac Kohane. Model-Based Insulin Sensitivity and Beta-Cell Function Estimation
   from Daily Continuous Glucose Monitoring. Oral Presentation at the 46th Annual International Conference of the
   IEEE Engineering in Medicine and Biology Society. 2024. (in press).
   <br>
+  <br>
   [Pathways Case Record: Profound Weight Loss In A Patient With Polymyositis And Small Bowel Inflammation.](https://advances.massgeneral.org/research-and-innovation/case-study.aspx?id=1033) _Advances in Motion_. Massachusetts General Hospital. 2024.
+  <br>
   <br>
      Peniel Argaw*, __Elizabeth Healey*__, Isaac Kohane. [Identifying Heterogeneous Treatment Effects in
   Multiple Outcomes using Joint Confidence Intervals](https://proceedings.mlr.press/v193/argaw22a.html) _Proceedings of Machine Learning Research_. 2022.<br>
